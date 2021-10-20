@@ -1,24 +1,15 @@
 <h1 align="center">Hi 👋, I'm Richard Araújo</h1>
 <h3 align="center">Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richardgomesdearaujo&label=Profile%20views&color=0e75b6&style=flat" alt="richardgomesdearaujo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardgomesdearaujo" alt="richardgomesdearaujo" /></a> </p>
 
 - 🔭 I’m currently working as a **Data Analyst**
-
 - 🌱 I’m currently learning **all kind of tecnology to analyse data, and develop web application**
-
 - 👯 I’m looking to collaborate on **your project and share knowledgement**
-
 - 👨‍💻 All of my projects are available at [(will be available soon)]((will be available soon))
-
 - 📝 I regularly write articles on [my Linkedin Profile](my Linkedin Profile)
-
 - 💬 Ask me about **how I can help you with your data**
-
 - 📫 How to reach me **richardaraujo74@aol.com**
-
 - ⚡ Fun fact **I love playing tennis and sports**
 
 <h3 align="left">Connect with me:</h3>
@@ -39,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardgomesdearaujo&" alt="richardgomesdearaujo" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardgomesdearaujo" alt="richardgomesdearaujo" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=richardgomesdearaujo&label=Profile%20views&color=0e75b6&style=flat" alt="richardgomesdearaujo" /> </p>
