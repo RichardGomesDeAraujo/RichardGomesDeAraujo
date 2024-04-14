@@ -7,8 +7,8 @@
 - 👯 I’m looking to collaborate on **your project and share knowledged**
 - 📝 I regularly write articles on [**my Linkedin Profile**](https://www.linkedin.com/in/richardaraujoanalistadedados/)
 - 💬 Ask me about **how can I help you with your data**
-- 📫 How to reach me **richardaraujo74@aol.com**
-- ⚡ Fun fact **I love playing tennis and sports**
+- 📫 How to reach me: **richardaraujo74@aol.com**
+- ⚡ Fun fact: **I love playing tennis and sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
