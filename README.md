@@ -3,10 +3,8 @@
 
 
 
-- 🔭 I’m currently working as a **Data Analyst**
-- 🌱 I’m currently learning **all kind of tecnology to analyse data, and develop web application**
+- 🔭 I’m a **Data Analyst** with Google Data Analyst Professional Certification
 - 👯 I’m looking to collaborate on **your project and share knowledged**
-- 👨‍💻 All of my projects are available at **(will be available soon)**
 - 📝 I regularly write articles on [**my Linkedin Profile**](https://www.linkedin.com/in/richardaraujoanalistadedados/)
 - 💬 Ask me about **how can I help you with your data**
 - 📫 How to reach me **richardaraujo74@aol.com**
